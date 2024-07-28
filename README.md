@@ -27,8 +27,9 @@ Installation
 
 1.  **Clone the repository:**
 
-    `git clone https://github.com/Gitzak/sticky-notes-app.git
-    cd sticky-notes-app`
+    `git clone https://github.com/Gitzak/sticky-notes-app.git`
+
+    `cd sticky-notes-app`
 
 2.  **Install dependencies:**
 
