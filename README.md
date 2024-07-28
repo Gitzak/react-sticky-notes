@@ -27,7 +27,7 @@ Installation
 
 1.  **Clone the repository:**
 
-    `git clone https://github.com/yourusername/sticky-notes-app.git
+    `git clone https://github.com/Gitzak/react-sticky-notes.git
     cd sticky-notes-app`
 
 2.  **Install dependencies:**
